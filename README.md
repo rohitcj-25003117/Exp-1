@@ -1,5 +1,6 @@
 # Exp-1 ATM & BANKING SYSTEM
-
+NAME : CJ ROHIT 
+REG  : 212224243005 
 # AIM:
 To study the problem statement and SRS of an ATM System and represent its architecture using UML diagrams.
 # SRS (Procedure):
